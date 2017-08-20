@@ -254,4 +254,4 @@ For details about protecting other workloads, try one of these articles:
 
 [green]: ./media/backup-introduction-to-azure-backup/green.png
 [yellow]: ./media/backup-introduction-to-azure-backup/yellow.png
-[red]: ./media/backup-introduction-to-azure-backup/red.png
+[red]: ./media/backup-introduction-to-azure-backup/red.
